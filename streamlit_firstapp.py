@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('My First Streamlit App')
+streamlit.title('Build your our favourite smoothie 🍸🍹')
