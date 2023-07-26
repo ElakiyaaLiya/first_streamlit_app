@@ -1,1 +1,2 @@
-created a new python file
+import streamlit
+streamlit.title('My favourite language is French')
