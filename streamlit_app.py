@@ -6,3 +6,5 @@ streamlit.text('A bientot 🤩')
 streamlit.text('Bienvenue 😇')
 streamlit.text('Merci beaucoup 😊')
 streamlit.text('Ca va bien 😎')
+
+streamlit.header('Now you can learn easily😍')
